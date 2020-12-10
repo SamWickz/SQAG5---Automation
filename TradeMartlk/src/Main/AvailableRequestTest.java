@@ -64,13 +64,6 @@ public class AvailableRequestTest {
 	
 	
 	
-//	public static void main(String[] args) throws InterruptedException {
-//		
-//		AvailableRequestTest availableRequestTest = new AvailableRequestTest();
-//		availableRequestTest.NavigateToSparePartRequestPage();
-//	}
-	
-	
 	
 	
 	
