@@ -1,24 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-12-10T17:21:33 IST" name="Default suite" finished-at="2020-12-10T17:22:43 IST" duration-ms="69822">
+  <suite started-at="2020-12-16T08:46:43 IST" name="Default suite" finished-at="2020-12-16T08:47:03 IST" duration-ms="19928">
     <groups>
     </groups>
-    <test started-at="2020-12-10T17:21:33 IST" name="Default test" finished-at="2020-12-10T17:22:43 IST" duration-ms="69822">
+    <test started-at="2020-12-16T08:46:43 IST" name="Default test" finished-at="2020-12-16T08:47:03 IST" duration-ms="19928">
       <class name="Main.AvailableRequestTest">
-        <test-method signature="NavigateToSparePartRequestPage()[pri:0, instance:Main.AvailableRequestTest@1ebd319f]" started-at="2020-12-10T17:21:33 IST" name="NavigateToSparePartRequestPage" finished-at="2020-12-10T17:22:40 IST" duration-ms="66601" status="PASS">
+        <test-method is-config="true" signature="NavigateToSparePartRequestPage()[pri:0, instance:Main.AvailableRequestTest@313b2ea6]" started-at="2020-12-16T08:46:43 IST" name="NavigateToSparePartRequestPage" finished-at="2020-12-16T08:47:01 IST" duration-ms="17432" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- NavigateToSparePartRequestPage -->
-        <test-method signature="TMS_AR_001()[pri:1, instance:Main.AvailableRequestTest@1ebd319f]" started-at="2020-12-10T17:22:40 IST" name="TMS_AR_001" description="Verify the Spareparts Request page has title text" finished-at="2020-12-10T17:22:43 IST" duration-ms="3152" status="PASS">
+        <test-method signature="TMS_AR_001()[pri:1, instance:Main.AvailableRequestTest@313b2ea6]" started-at="2020-12-16T08:47:01 IST" name="TMS_AR_001" description="Verify the Spareparts Request page has title text" finished-at="2020-12-16T08:47:03 IST" duration-ms="1984" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TMS_AR_001 -->
-        <test-method signature="TMS_AR_003()[pri:2, instance:Main.AvailableRequestTest@1ebd319f]" started-at="2020-12-10T17:22:43 IST" name="TMS_AR_003" description="Verify the Heading Text is spelled Correctly" finished-at="2020-12-10T17:22:43 IST" duration-ms="32" status="PASS">
+        <test-method signature="TMS_AR_003()[pri:2, instance:Main.AvailableRequestTest@313b2ea6]" started-at="2020-12-16T08:47:03 IST" name="TMS_AR_003" description="Verify the Heading Text is spelled Correctly" finished-at="2020-12-16T08:47:03 IST" duration-ms="46" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TMS_AR_003 -->
+        <test-method signature="TMS_AR_009()[pri:3, instance:Main.AvailableRequestTest@313b2ea6]" started-at="2020-12-16T08:47:03 IST" name="TMS_AR_009" description="Verify the user can select sparepart type in the designed field selector" finished-at="2020-12-16T08:47:03 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TMS_AR_009 -->
+        <test-method signature="TMS_AR_0010()[pri:4, instance:Main.AvailableRequestTest@313b2ea6]" started-at="2020-12-16T08:47:03 IST" name="TMS_AR_0010" description="Verify the user can select bidding status  in the designed field selector" finished-at="2020-12-16T08:47:03 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TMS_AR_0010 -->
+        <test-method signature="TMS_AR_0012()[pri:5, instance:Main.AvailableRequestTest@313b2ea6]" started-at="2020-12-16T08:47:03 IST" name="TMS_AR_0012" description="Verify the user can select winning  status  in the designed field selector" finished-at="2020-12-16T08:47:03 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TMS_AR_0012 -->
+        <test-method signature="TMS_AR_0016()[pri:7, instance:Main.AvailableRequestTest@313b2ea6]" started-at="2020-12-16T08:47:03 IST" name="TMS_AR_0016" description="Verify the user can enter data to search in the designed textfield" finished-at="2020-12-16T08:47:03 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TMS_AR_0016 -->
+        <test-method signature="TMS_AR_0017()[pri:8, instance:Main.AvailableRequestTest@313b2ea6]" started-at="2020-12-16T08:47:03 IST" name="TMS_AR_0017" description="Verify the calendar component is active when the bidding date textboxes are clicked." finished-at="2020-12-16T08:47:03 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TMS_AR_0017 -->
+        <test-method signature="TMS_AR_0033()[pri:20, instance:Main.AvailableRequestTest@313b2ea6]" started-at="2020-12-16T08:47:03 IST" name="TMS_AR_0033" description="Verify search response for a large but valid strings" finished-at="2020-12-16T08:47:03 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TMS_AR_0033 -->
+        <test-method is-config="true" signature="AfterTestRun()[pri:0, instance:Main.AvailableRequestTest@313b2ea6]" started-at="2020-12-16T08:47:03 IST" name="AfterTestRun" finished-at="2020-12-16T08:47:03 IST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestRun -->
       </class> <!-- Main.AvailableRequestTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

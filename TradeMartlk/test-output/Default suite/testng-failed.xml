@@ -5,7 +5,15 @@
     <classes>
       <class name="Main.AvailableRequestTest">
         <methods>
-          <include name="TMS_AR_003"/>
+          <include name="TMS_AR_0021"/>
+          <include name="TMS_AR_0024"/>
+          <include name="TMS_AR_0022"/>
+          <include name="TMS_AR_0025"/>
+          <include name="AfterTestRun"/>
+          <include name="TMS_AR_0018"/>
+          <include name="NavigateToSparePartRequestPage"/>
+          <include name="TMS_AR_0020"/>
+          <include name="TMS_AR_0023"/>
         </methods>
       </class> <!-- Main.AvailableRequestTest -->
     </classes>
