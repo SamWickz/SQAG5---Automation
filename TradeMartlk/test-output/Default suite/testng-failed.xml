@@ -5,13 +5,24 @@
     <classes>
       <class name="Main.AvailableRequestTest">
         <methods>
+          <include name="TMS_AR_0018"/>
+          <include name="TMS_AR_0029"/>
+          <include name="TMS_AR_0019"/>
           <include name="TMS_AR_0021"/>
+          <include name="TMS_AR_0032"/>
+          <include name="teardown"/>
           <include name="TMS_AR_0024"/>
+          <include name="Startup"/>
+          <include name="TMS_AR_0016"/>
+          <include name="TMS_AR_0027"/>
           <include name="TMS_AR_0022"/>
           <include name="TMS_AR_0025"/>
-          <include name="AfterTestRun"/>
-          <include name="TMS_AR_0018"/>
-          <include name="NavigateToSparePartRequestPage"/>
+          <include name="TMS_AR_0036"/>
+          <include name="TMS_AR_0017"/>
+          <include name="TMS_AR_0028"/>
+          <include name="TMS_AR_0015"/>
+          <include name="TMS_AR_0026"/>
+          <include name="TMS_AR_0037"/>
           <include name="TMS_AR_0020"/>
           <include name="TMS_AR_0023"/>
         </methods>
